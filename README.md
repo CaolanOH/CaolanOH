@@ -5,6 +5,8 @@
 My name is Caolán O'Hagan. I am an aspiring developer from Ireland. I graduated from The Institure of Art, Design and Technology Dún Laoighaire (IADT) in 2022 with a **1:1** in Creative Computing. I am currently apart of the **Google Software Engineering Apprenticeship Program**. 
 
 
+
+
 <!--
 **CaolanOH/CaolanOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
