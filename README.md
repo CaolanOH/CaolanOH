@@ -26,7 +26,7 @@ The technologies I hope to implement in this project with will be:
   * AWS
 
 
-🌱 I’m currently learning Spring while revising some JavaScript, Python and PostgreSQL
+🌱 At the moment learning Spring while revising some JavaScript, Python and PostgreSQL
 <!--
 **CaolanOH/CaolanOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
