@@ -2,11 +2,11 @@
 
 ## About me 
 
-My name is Caolán O'Hagan. I am an aspiring developer from Ireland. I graduated from The Institure of Art, Design and Technology Dún Laoighaire (IADT) in 2022 with a **1:1** in Creative Computing. I am currently apart of the **Google Software Engineering Apprenticeship Program**. 
+I am a Highly motivated graduate with a First Class Honours BSc (Hons) in Creative Computing from the Dún Laoghaire Institute of Art, Design, Tehnology (IADT). [For my final year project I dveloped a chat bot that utilises React Native, Natural Language processing and Machine Learning to help with the symptoms of anxiety and depression.](https://www.google.com) I have experince with languages such as Java, JavaScript, Python, PHP, HTML, CSS and MySql. I also have experience with frameworkd such as React, React Native, Vue.js, Laravel as well as more CSS frameworks. I enjoy acquiring new skills and putting myself outside of my comfort zone. I used to work in a cafe for 8 yearrs, and through my experience there I have developed excellent communication, management and teamworking skills. I currently apart of the **Google SWE Apprenticeship Program**.
 
+##🔭 I’m currently working on a web app called Marcus Emailius.
 
-
-
+##🌱 I’m currently learning Spring while revising some JavaScript, Python and PostgreSQL
 <!--
 **CaolanOH/CaolanOH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
